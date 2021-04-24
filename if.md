@@ -1,5 +1,5 @@
 # Instructiunea *if*
-Instructiunea if este o instructiune decizionala. Determina executia codului din interiorul acoladelor in functie de valoarea de adevar a expresies din interiorul parantezelor. Codul se va executa astfel:
+Instructiunea if este o instructiune decizionala. Determina executia codului din interiorul acoladelor in functie de valoarea de adevar a expresie din interiorul parantezelor. Codul se va executa astfel:
 - Daca expresia booleana din paranteze este adevarata (**true**), atunci se va executa codul dintre acolade (*code1, code2, etc*).
 - Daca expresia este falsa (**false**) atunci firul de executie nu va executa codul din interiorul acoladelor, ci va sari imediat la executia codului din afara acoladelor incepand cu *code3*.
 

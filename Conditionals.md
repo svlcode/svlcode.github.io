@@ -32,8 +32,7 @@ Console.WriteLine("Sa vedem ce vei face la urmatorul examen.");
 
 ```
 
-In exemplul de mai sus, variabila nota are valoare 5 si deci la executia programului se vor afisa ambele mesaje.
-Output:
+In exemplul de mai sus, variabila nota are valoare 5 si deci la executia programului se vor afisa ambele mesaje:
 ```
 Felicitari ai luat o nota de trecere.
 Sa vedem ce vei face la urmatorul examen.
@@ -54,8 +53,10 @@ Console.WriteLine("Sa vedem ce ve face la urmatorul examen.");
 ```
 
 In exemplul de mai sus, variabila nota are valoare 4 si cum 4 nu este mai mare decat 4, la executia programului se va afisa doar mesajul:
+```
+Sa vedem ce vei face la urmatorul examen.
+```
 
-*Sa vedem ce vei face la urmatorul examen.*
 
 ## Acolade optionale
 In cazul in care bucata de cod contionata este doar o singura linie de cod, acoladele sunt optionale. Este de preferat totusi, dar nu obligatorie, mentinerea indentarii liniei de cod conditionata. Exemplul de mai sus poate fi scris si astfel:

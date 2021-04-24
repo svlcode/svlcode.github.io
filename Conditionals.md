@@ -12,5 +12,5 @@ if (booleanExpression == true)
 {
   // execute code1
 }
-// code2
+// execute code2
 ```

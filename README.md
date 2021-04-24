@@ -14,4 +14,4 @@ class Program
 ```
 
 
-[Conditional statements](conditionals.md)
+[Conditional statements](Conditionals.md)

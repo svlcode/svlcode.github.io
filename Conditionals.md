@@ -32,11 +32,11 @@ Console.WriteLine("Sa vedem ce vei face la urmatorul examen.");
 
 ```
 
-In exemplul de mai sus, variabila nota are valoare 5 si deci la executia programului se vor afisa ambele mesaje:
-
+In exemplul de mai sus, variabila nota are valoare 5 si deci la executia programului se vor afisa ambele mesaje.
+Output:
 ```
-*Felicitari ai luat o nota de trecere.*
-*Sa vedem ce vei face la urmatorul examen.*
+Felicitari ai luat o nota de trecere.
+Sa vedem ce vei face la urmatorul examen.
 ```
 
 ### Exemplu conditie falsa

@@ -9,7 +9,7 @@ Intructiuni de conditionare a executiei codului:
 
 ## Loops
 Se mai numesc Bucle sau Cicluri:
-- [For](./loops/for.md)
+- [For](for.md)
 - [Foreach](foreach.md)
 - [While](while.md)
 - [Do While](do_while.md)

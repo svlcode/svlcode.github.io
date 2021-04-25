@@ -1,6 +1,6 @@
 # Instructiunea for
 Este o intructiune ciclica controlata. Evaluarea instructiunii se desfoara pe pasi astfel:
-!(syntax)(svlcode.github.io/assets/img/for-loop.png)
+!(syntax)(https://svlcode.github.io/assets/img/for-loop.png)
 
 - Pasul1 - Initialize: se initializeaza cu o valoare de inceput o variabila care are scop de contorizare
 - Pasul 2 - Test: se compara variabila contorizatoare cu o valoare finala si se verifica daca expresia este adevarata

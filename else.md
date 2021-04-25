@@ -1,6 +1,8 @@
 # Instructiunea *else*
 Instructiunea else este o instructiune decizionala care vine in completarea instructiunii if. Astfel ca ea determina executia codului din interiorul acoladelor asociate instructiunii else atunci cand expresiea din interiorul parantezelor instructiunii if nu este adevarata.
 
+![syntax](./assets/img/if-else-statement-syntax.png)
+
 ```c#
 if (booleanExpression == true) 
 {

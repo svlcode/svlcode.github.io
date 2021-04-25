@@ -61,3 +61,24 @@ else
 Console.WriteLine("Sa vedem ce vei face la urmatorul examen.");
 ```
 In exemplul de mai sus mesajul, '*Sa vedem ce vei face la urmatorul examen.*', se va afisa indiferent de valoarea notei.
+
+## If else
+Instructiunea *if else* poate fi folosita pentru a testa o noua conditie, daca prima prima este falsa.
+
+![syntax](./assets/img/if-else-if-else-statement-syntax.png)
+
+### Exemplu
+
+```c#
+if (x > y)
+  Console.WriteLine("x este mai mare");
+else if (x < y)
+  Console.WriteLine("y este mai mare");
+else
+  Console.WriteLine("x is y sunt egale");
+```
+
+In exemplul de mai sus se verifica urmatoarele:
+- prima conditie verifica daca x este mai mare decat y.
+- daca prima conditie nu este adevarata, se trece la urmatoare verificare, daca x este mai mic decat y.
+- daca nici una dintre conditii este adevarata, se executa direct instructiunea else. in acest caz singura posibilitate ramasa este ca cele doua variabile sa fie egale intre ele.
